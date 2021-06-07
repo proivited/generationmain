@@ -1,2 +1,0 @@
-# generationmain
-primer carpeta
