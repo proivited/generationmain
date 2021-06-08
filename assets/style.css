@@ -1,0 +1,35 @@
+body{
+    background-color: brown;
+}
+
+
+h2 {
+    color: aqua;
+    text-align: center;
+}
+
+p{
+    font-size: x-large;
+    font-weight: 900;
+    font-style: italic;
+    text-decoration: underline red;
+    text-transform: uppercase;
+}
+/*tambien puedes poner un div general y solamente cambiar propiedades con las class*/
+.uno {
+    height: 300px;
+    width: 400px;
+    background-color: cadetblue;
+    margin: 20px; /*se pueden poner margenes top, bot etc*/
+    padding: 20px;
+}
+
+.dos {
+    height: 300px;
+    width: 400px;
+    background-image: url('https://www.thecolvinco.com/es/c/wp-content/uploads/2020/06/1b-768x768.jpg');
+    background-size: cover;
+    background-position: center;
+    margin: 20px; /*se pueden poner margenes top, bot etc*/
+    padding: 20px;
+}
