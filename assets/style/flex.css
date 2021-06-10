@@ -1,0 +1,32 @@
+.cajas{
+    max-width: 900px;
+    background-color: gray;
+    border: 3px solid black;
+    height: 600px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center; /*horizontal alineacion*/
+    align-items: center; /*vretical allineacion*/ /*si tenemos mas elementos con flex wrap wrap*/
+}
+
+.caja{
+    width: 200px;
+    height: 200px;
+    border: 3px solid black;
+    margin: 10px;
+}
+
+.roja{
+    background-color: red;
+    align-self: baseline;  /*para alinear en partes */
+    justify-self: baseline;
+}
+
+.verde{
+    background-color: green;
+}
+
+.azul{
+    background-color: blue;
+    align-self: flex-end;
+}

@@ -1,0 +1,20 @@
+.caja{
+    width: 400px;
+    height: 400px;
+}
+
+.uno{
+    background-color: #fafa31;
+    margin-bottom: 10px;
+    border: 2px solid #000;
+    border-end-end-radius: 20px;
+}
+
+.dos{
+    background-color: rgb(101, 163, 38);
+    padding: 10px;
+    border-width: 2px;
+    border-color: black; /*en la misma de border de uno se puede meter todo esto*/
+    border-style: solid;
+    border-radius: 50%; /*cpn 50% se convierte en circulo*/
+}

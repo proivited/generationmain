@@ -1,0 +1,40 @@
+.caja{
+    color: white;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 200px;
+    height: 50px;
+    background-color: rgb(17, 16, 16);
+    margin: 10px;
+}
+
+.uno{
+    border-end-end-radius: 60px;
+}
+
+.dos{
+    border-end-end-radius: 45%;
+}
+
+.tres{
+   border-end-end-radius: 150px;
+}
+
+.cuatro{
+    
+    border-bottom-left-radius: 260px;
+    border-top-right-radius: 260px ;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.cinco{
+
+}
+
+.seis{
+    border-radius: 50%;
+    height: 200px;
+}

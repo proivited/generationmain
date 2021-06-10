@@ -1,0 +1,21 @@
+.cajas{
+    max-width: 900px;
+    height: 1000px;
+    background-color: turquoise; /*max y min sirven para limitar mejor que width soloo*/
+    margin: 0 auto;
+    border: 2px solid black;
+}
+
+.caja{
+    width: 200px;
+    height: 200px;
+    background-color: blueviolet;
+    margin: 10px;
+    border: 5px solid red;
+    float: left;
+}
+
+.clearfix{
+    float: none;
+    clear: both;
+}

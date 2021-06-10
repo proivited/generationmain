@@ -29,7 +29,7 @@ main > article > section > div > img {
     }
 
 main > article > section > div {
-    width: 80%;
+    width: 80%; /*Espacio relacionado a espacio padre*/
     margin: 0 auto;
 }
 
